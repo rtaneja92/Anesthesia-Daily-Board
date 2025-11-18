@@ -1,0 +1,5 @@
+{
+  "name": "Anesthesia Daily Board",
+  "description": "A drag-and-drop anesthesia scheduling board for managing staff assignments across operating rooms.",
+  "requestFramePermissions": []
+}
